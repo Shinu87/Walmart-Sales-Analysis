@@ -27,8 +27,8 @@ This project involves cleaning, exploring, and analyzing Walmart sales data usin
 Walmart-Sales-Analysis/
 │
 ├── data/
-│   ├── Walmart.csv                # Original dataset (excluded from repo)
-│   └── walmart_cleaned.csv        # Cleaned dataset (excluded from repo)
+│   ├── Walmart.csv                # Original dataset 
+│   └── walmart_cleaned.csv        # Cleaned dataset 
 │
 ├── notebooks/
 │   └── project.ipynb  # Jupyter Notebook for data prep and MySQL upload
@@ -97,5 +97,3 @@ six==1.16.0
 
 ---
 
-Thumbs.db
-```
